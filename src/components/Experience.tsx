@@ -15,7 +15,7 @@ const experiences = [
   {
     company: 'Digital Solutions Co.',
     role: 'Front-End Developer',
-    period: '2023 - 2024',
+    period: '2023',
     achievements: [
       
       'Built responsive and visually engaging web interfaces using React, Tailwind CSS, and JavaScript',
@@ -26,7 +26,7 @@ const experiences = [
   {
     company: 'StartUp Labs',
     role: 'Junior Front-End Developer',
-    period: '2022 - 2023',
+    period: '2024',
     achievements: [
       'Developed and maintained client-facing web applications',
       'Worked closely with designers to implement pixel-perfect designs',
