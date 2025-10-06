@@ -18,8 +18,8 @@ const experiences = [
     period: '2023 - 2024',
     achievements: [
       
-      'Migrated legacy jQuery codebase to modern React architecture',
-      'Collaborated with UX team to improve user engagement by 30%',
+      'Built responsive and visually engaging web interfaces using React, Tailwind CSS, and JavaScript',
+      'Collaborated with UX team to improve user engagement by 10%',
       'Developed reusable component library reducing development time',
     ],
   },
@@ -31,6 +31,7 @@ const experiences = [
       'Developed and maintained client-facing web applications',
       'Worked closely with designers to implement pixel-perfect designs',
       'Contributed to the company blog with technical articles',
+      'Love crafting clean, modern interfaces that balance beauty and functionality',
     ],
   },
 ];
