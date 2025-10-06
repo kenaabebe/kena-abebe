@@ -6,10 +6,10 @@ const experiences = [
     role: 'Junior Front-End Developer',
     period: '2024 - Present',
     achievements: [
-      'Led the development of a new design system used across 4+ products',
-      'Improved application performance by 40% through code optimization',
+      'Led the development of a new design system used across 2 products',
+      'Improved application performance by 20% through code optimization',
       'Mentored 2 junior developers and conducted code reviews',
-      'Implemented automated testing, increasing code coverage to 85%',
+      
     ],
   },
   {
@@ -17,7 +17,7 @@ const experiences = [
     role: 'Front-End Developer',
     period: '2023 - 2024',
     achievements: [
-      'Built responsive web applications serving 100k+ daily users',
+      
       'Migrated legacy jQuery codebase to modern React architecture',
       'Collaborated with UX team to improve user engagement by 30%',
       'Developed reusable component library reducing development time',
@@ -31,7 +31,6 @@ const experiences = [
       'Developed and maintained client-facing web applications',
       'Worked closely with designers to implement pixel-perfect designs',
       'Contributed to the company blog with technical articles',
-      'Participated in agile development processes and sprint planning',
     ],
   },
 ];
